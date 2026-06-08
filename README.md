@@ -1,16 +1,32 @@
-# React + Vite
+**JuegaHur — Tienda Online de Videojuegos**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+JuegaHur es una tienda online de videojuegos digitales construida con React. Permite explorar un catálogo de juegos, filtrarlos, consultar el detalle de cada título, agregarlos al carrito y completar una compra simulada. La app está inspirada en plataformas como G2A y Eneba.
+##
+**Tecnologías utilizadas**
 
-Currently, two official plugins are available:
+- React
+- React Router DOM  
+- React Bootstrap 
+- Bootstrap 
+- Bootstrap Icons 
+- Vite 
+##
+**Instalación y ejecución**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+```bash
+# Clonar el repositorio
+git clone https://github.com/Arturo27016/CIU-TP1-GRUPO8
 
-## React Compiler
+# Instalar dependencias
+npm install
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# Correr en desarrollo
+npm run dev
+```
+La app estará disponible en `http://localhost:5173`
+## 
+**Integrantes del grupo**
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Arturo Juan Deandrea - Comisión 2
+##
+Proyecto académico — Materia: Construcción de Interfaces de Usuario — UNAHUR

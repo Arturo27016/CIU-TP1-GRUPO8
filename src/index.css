@@ -244,6 +244,10 @@ body {
   margin-top: 8px;
 }
 
+.section-title.no-line::after {
+  display: none;
+}
+
 /* Separador */
 .cyber-divider {
   height: 1px;

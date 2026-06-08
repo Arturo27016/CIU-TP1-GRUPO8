@@ -70,7 +70,7 @@ export default function Navbar() {
                   lineHeight: 1,
                   letterSpacing: "0.05em",
                 }}>
-                  PIXEL<span style={{ color: "var(--accent-cyan)" }}>VAULT</span>
+                  JUEGA<span style={{ color: "var(--accent-cyan)" }}>HUR</span>
                 </div>
                 <div style={{
                   fontFamily: "var(--font-mono)",
