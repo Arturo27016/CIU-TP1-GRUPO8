@@ -18,6 +18,7 @@ JuegaHur es una tienda online de videojuegos digitales construida con React. Per
 git clone https://github.com/Arturo27016/CIU-TP1-GRUPO8
 
 # Instalar dependencias
+cd CIU-TP1-GRUPO8 
 npm install
 
 # Correr en desarrollo
